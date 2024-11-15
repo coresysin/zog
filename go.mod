@@ -1,4 +1,4 @@
-module github.com/Oudwins/zog
+module github.com/coresysin/zog
 
 go 1.21.0
 
